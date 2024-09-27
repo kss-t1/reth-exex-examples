@@ -8,6 +8,7 @@ members = [
  "op-bridge", 
  "remote",
  "rollup",
+ "t1",
 ]
 resolver = "2"
 
